@@ -20,6 +20,7 @@
 
     <modules>
         <module>dt-backend</module>
+        <module>dt-business</module>
     </modules>
 
     <properties>
