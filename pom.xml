@@ -21,6 +21,7 @@
     <modules>
         <module>dt-backend</module>
         <module>dt-business</module>
+        <module>dt-persistence</module>
     </modules>
 
     <properties>
