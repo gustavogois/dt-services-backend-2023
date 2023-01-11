@@ -1,4 +1,4 @@
-package com.gois.dtservices2023;
+package com.gois.dtservices.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

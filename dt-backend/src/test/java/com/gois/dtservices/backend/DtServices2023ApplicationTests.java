@@ -1,4 +1,4 @@
-package com.gois.dtservices2023;
+package com.gois.dtservices.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
